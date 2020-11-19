@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Streamy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Real time streaming project made in react
 
 ## Available Scripts
 
