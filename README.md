@@ -1,6 +1,7 @@
 # Streamy
 
-Real time streaming project made in react
+Real time streaming project
+
 
 ## Available Scripts
 
